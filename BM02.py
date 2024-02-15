@@ -24,7 +24,7 @@ def anagrama(palabra1, palabra2):
                 
     else: print("Esas palabras no son anagramas.")
     
-inp1 = input("Introduce un palabra: ")
-inp2 = input("Introduce la segunda palabra: ")
+inp1 = input("Introduce un palabra: ").lower()
+inp2 = input("Introduce la segunda palabra: ").lower()
 
 (anagrama(inp1, inp2))
