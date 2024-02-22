@@ -14,3 +14,4 @@ Repositorio para incluir los retos de programación by Brais Moure. https://reto
 <img width="945" alt="Captura de pantalla 2024-02-15 a las 14 55 46" src="https://github.com/Javilone/Retos_de_programacion/assets/97972589/a822a574-0e9c-4217-952e-b2edc3c3b62c">
 <p><b>BM011.py -> <a href="https://github.com/Javilone/Retos_de_programacion/blob/main/BM_011_020/BM011.py" target="_blank">Expresiones balanceadas: (()))).</a></b></p>
 <p><b>BM012.py -> <a href="https://github.com/Javilone/Retos_de_programacion/blob/main/BM_011_020/BM012.py" target="_blank">Palabras palíndromas.</a></b></p>
+<p><b>BM014.py -> <a href="https://github.com/Javilone/Retos_de_programacion/blob/main/BM_011_020/BM014.py" target="_blank">(Recursividad) Factorial de un número</a></b></p>
